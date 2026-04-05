@@ -3,11 +3,7 @@
 ### Page 1 — Executive Summary
 ![Page 1](dashboard_page1_executive_summary.png)
 
-### Page 2 — Customer & Geography  
-![Page 2](dashboard_page2_customer_geography.png)
 
-### Page 3 — Target vs Actual
-![Page 3](dashboard_page3_target_actual.png)
 
 ## 📌 Project Overview
 This project analyzes an Indian E-Commerce business dataset covering 500 orders 
@@ -35,3 +31,39 @@ business insights using SQL and visualize them using Power BI.
 - 🎯 Business met targets only **44% of the time**
 
 ## 📁 Project Structure
+
+
+## 📸 Dashboard Screenshots
+
+
+### Page 2 — Customer & Geography
+![Page 2](dashboard_page2_customer_geography.png)
+
+### Page 3 — Target vs Actual
+![Page 3](dashboard_page3_target_actual.png)
+
+## 🔍 SQL Queries Cover
+- Category and sub-category performance
+- Customer segmentation (High/Medium/Low Value)
+- Geographic analysis by state
+- Monthly sales trends and MoM growth
+- Target vs Actual performance
+- Window functions — RANK, LAG, PARTITION BY
+
+## 📈 Overall Business KPIs
+| KPI | Value |
+|-----|-------|
+| Total Orders | 500 |
+| Total Customers | 332 |
+| Total Revenue | ₹4,31,502 |
+| Total Profit | ₹23,955 |
+| Avg Order Value | ₹863 |
+| Profit Margin | 5.55% |
+| Repeat Customer Rate | 31% |
+| Target Achievement | 44% |
+
+## 👤 Author
+**Ankur Ojha**  
+Aspiring Data Analyst | MySQL • Power BI • Python • Excel  
+[LinkedIn](https://www.linkedin.com/in/ankur-ojha-465464277/)
+
