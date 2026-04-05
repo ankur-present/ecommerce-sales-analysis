@@ -1,6 +1,13 @@
 # 🛒 E-Commerce Sales Analysis (2018-2019)
 
-![Dashboard](dashboard_page1_executive_summary.png)
+### Page 1 — Executive Summary
+![Page 1](dashboard_page1_executive_summary.png)
+
+### Page 2 — Customer & Geography  
+![Page 2](dashboard_page2_customer_geography.png)
+
+### Page 3 — Target vs Actual
+![Page 3](dashboard_page3_target_actual.png)
 
 ## 📌 Project Overview
 This project analyzes an Indian E-Commerce business dataset covering 500 orders 
